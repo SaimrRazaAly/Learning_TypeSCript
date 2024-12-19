@@ -27,7 +27,7 @@ const userInformation: userInfo = {
   username: "Saim",
 };
 userInformation.username = "Raza"; // allowed
-userInformation.id = "8495"; // not allowed beacuse of readonly
+// userInformation.id = "8495"; // not allowed beacuse of readonly
 
 // Conditional checking USing (?)
 
