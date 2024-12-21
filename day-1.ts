@@ -32,7 +32,7 @@ let married: boolean = false;
 // EX 2 Array of Numbers and Strings
 // Create an array of your favorite numbers and an array of your favorite colors.
 
-let numbers:number[] = [2, 4, 6, 8];
+let numbers: number[] = [2, 4, 6, 8];
 let colors: string[] = ["red", "orange", "yellow"];
 
 // Ex 2 Union Type Example
@@ -55,5 +55,5 @@ let week:
   | "Friday"
   | "Saturday"
   | "Sunday";
-week = " Wednesday";
+week = "Thursday";
 console.log(`today is ${week}`);
